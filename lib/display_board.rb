@@ -7,6 +7,4 @@ def display_board
   puts"-----------"
   puts"   |   |   "
 end
- puts"Welcome to Tic Tac Toe!"
-
-
+ puts "Welcome to Tic Tac Toe!"
