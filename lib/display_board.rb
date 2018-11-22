@@ -8,9 +8,3 @@ def display_board (board)
   puts"-----------"
   puts"   |   |   "
 end
-do
-  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-end
-do
-  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-end
