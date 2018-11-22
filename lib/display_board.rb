@@ -9,5 +9,7 @@ def display_board (board)
 end
 
 board = [" "," "," "," "," "," "," "," "," "]
-puts "turn 1"
 board = [" "," "," "," ","X"," "," "," "," "]
+board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
