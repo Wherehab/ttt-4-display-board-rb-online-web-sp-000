@@ -8,3 +8,5 @@ def display_board
   puts"   |   |   "
 end
  puts "Welcome to Tic Tac Toe!"
+
+board = ["hello"," "," "]
