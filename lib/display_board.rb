@@ -7,9 +7,3 @@ def display_board (board)
   puts"-----------"
   puts" #{board[6]} | #{board[7]} | #{board[8]} "
 end
-
-board = [" "," "," "," "," "," "," "," "," "]
-board = [" "," "," "," ","X"," "," "," "," "]
-board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
-board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
